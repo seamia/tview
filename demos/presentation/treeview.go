@@ -4,7 +4,7 @@ import (
 	"strings"
 
 	"github.com/gdamore/tcell"
-	"github.com/rivo/tview"
+	"github.com/seamia/tview"
 )
 
 const treeAllCode = `[green]package[white] main
